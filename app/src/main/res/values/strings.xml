@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Readyalog</string>
+
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="not_now">Not Now</string>
+    <string name="message_long_message">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</string>
+    
+    <string name="pick_date">Pick Date</string>
+    <string name="custom_content">Custom Content</string>
+    <string name="choose_one">Choose One</string>
+</resources>

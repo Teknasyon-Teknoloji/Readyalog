@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="types">
+        <item>Simple Message</item>
+        <item>Date Picker (Varies by OS)</item>
+        <item>Custom Content</item>
+        <item>ListView</item>
+    </string-array>
+
+    <string-array name="options">
+        <item>Option 0</item>
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+        <item>Option 4</item>
+        <item>Option 5</item>
+        <item>Option 6</item>
+        <item>Option 7</item>
+        <item>Option 8</item>
+        <item>Option 9</item>
+        <item>Option 10</item>
+    </string-array>
+
+</resources>
